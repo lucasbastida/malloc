@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <assert.h>
 
-#include "malloc_free.c"
+#include "malloc.h"
 
 int main()
 {
